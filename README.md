@@ -1,6 +1,6 @@
 # VMDdiffsea: Variational Mode Decomposition with diffusion model for Underwater Image Enhancement
 
-San Zhang, Qianwen Ding, Manli Zhou, Yuhang Ma, Shiliang ZhouDependencies and Installation
+San Zhang, Qianwen Ding, Manli Zhou, Yuhang Ma, Shiliang Zhou
 
 ## Abstract
 This repository contains the implementation of VMDdiffsea, a novel underwater image enhancement framework that combines Variational Mode Decomposition (VMD) with a diffusion model. The method effectively addresses color distortion, detail blurring, and noise interference in underwater images through a frequency-aware enhancement approach.
